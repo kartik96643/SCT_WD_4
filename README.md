@@ -1,12 +1,48 @@
-# React + Vite
+#  Task 4 - To-Do Web Application (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the **To-Do Web Application** developed as part of **Task 4** for the **Web Development Internship** at **SkillCraft Technology**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Task Description
 
-## Expanding the ESLint configuration
+The goal of this task was to create a **feature-rich To-Do Web Application** using **React.js** that allows users to:
+- Add tasks with a title and description
+- Organize tasks into different lists or categories
+- Mark tasks as **completed**
+- Edit task details
+- Delete tasks when no longer needed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The app is responsive, interactive, and stores data locally for persistence.
+
+---
+
+##  Technologies Used
+
+- React.js (Functional Components, Hooks)
+- Tailwind CSS 
+- Local Storage API (for persistence)
+
+
+---
+
+##  What I Learned
+
+- Building **React components** and managing state using `useState` and `useEffect`
+- Handling **CRUD operations** in React
+- Using **Local Storage** for storing data persistently
+- Implementing date/time pickers in a React app
+- Creating a responsive and user-friendly UI
+
+---
+
+##  Internship Details
+
+- **Track**: Web Development  
+- **Organization**: SkillCraft Technology  
+- **Task**: #4 – To-Do Web Application (React.js)  
+- **GitHub Repo**: `SCT_WD_4`
+
+---
+
+
